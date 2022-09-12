@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+}
+.top {
+	display: flex;
+	align-items: center;
+	justify-content:center;
+	height: 100px;
+	width: 100%;
+	background-color:#D9D9D9;
+	
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight:500;
+	font-size: 40px;
+	text-transform: uppercase;
+	color: #9D9D9D;
+}
+.left {
+position:left;
+background-color: #EBEBEB;
+float: left;
+width: 35%;
+text-align: center;
+
+}
+.right {
+	position:Right;
+	background-color: #FAFAFA;
+	float: right;
+	width: 65%;
+	text-align: center;
+	
+}
+.leftnright {
+	display: flex;
+	height: 100%;
+}
+h1 {
+margin-top: 100px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+text-transform: uppercase;
+color: #6D6D6D;
+}
+.Firstlink {
+	 margin-top: 90px;
+	 font-style: normal ;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 39px;
+	color: #6D6D6D;
+	font-family: 'Montserrat';
+}
+.Secondlink {
+	margin-top: 70px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 39px;
+	color: #6D6D6D;
+}
+.Thirdlink {
+	margin-top: 70px;
+	font-family: 'Montserrat';	
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 39px;
+	color: #6D6D6D;
+}
+h2 {
+	margin-top: 123px;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 39px;
+	text-transform: uppercase;
+	color: #6D6D6D;
+	}
+.text {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 36px;
+	line-height: 65px;
+	text-align: center;
+	color: rgba(0, 0, 0, 0.8);
+	margin-top: 140px;
+	margin-right: 214px;
+	margin-left: 214px;
+}
+
